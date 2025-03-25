@@ -58,5 +58,8 @@ This project aims to produce a machine learning model that accurately predicts m
 ## 📢 Conclusion
 This project effectively demonstrates how machine learning can be leveraged to predict IMDb ratings, providing valuable insights into the movie industry. The structured approach ensures readability, efficiency, and scalability.
 
+Mean Squared Error: 0.7855670279613511
+R-squared Score: 0.192144021267386
+
 
 
